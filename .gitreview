@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.3cint.com
+port=29418
+project=TestGitHub/.git
+defaultremote=origin
